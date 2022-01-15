@@ -1,0 +1,1 @@
+("~/gtd/" "~/.emacs.d.orig/" "~/.emacs.d/elpa/xelb-0.18/")
